@@ -1,3 +1,4 @@
+// creates layout to apply to /ui and all sub routes
 import "@/app/global.css";
 import { inter } from "@/app/fonts";
 import { Metadata } from "next";
